@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/Arunm619/SecondBrain
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gc]
+	auto = 0
+[http "https://github.com/"]
+	extraheader = AUTHORIZATION: basic eC1hY2Nlc3MtdG9rZW46Z2hwX1hNQW9ZT0hPbENzcTZpbmp1UnRhTWJoTzVjTDZrdTM5UDlQTA==
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main

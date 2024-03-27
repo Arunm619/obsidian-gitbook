@@ -1,0 +1,5 @@
+Arun Sudharsan
+
+SDE Il to SDE III
+
+Arun is proactive, opinionated and cares about his craft, he has been one of the dev who has been called out to bring in most number of ideas to the table. He has delivered multiple large projects E2E like Bank offers, PPR enhancements,. His self ideated & executed feature "App Shortcuts" had great biz impact as well. He goes deep into problem statement for instance, during a testing initiative he took up to do a bugfix in the AssertGpt plugin (read the code and fixed the bug himself). Demonstrates a keen reading habit and regularly shares insights with rest of the android team. He tops the leaderboard with coverage contributions in recent UT marathon. Overall, it's great to see Arun stepping up and delivering multiple successful projects, Kudos Arun! keep up the good work!
