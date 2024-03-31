@@ -81,3 +81,17 @@ the concept of "nines" in availability is a way to express the uptime of a syste
 | Six Nines | 99.9999% | Less than 31 seconds |
 
 As you can see, each additional nine significantly reduces the amount of acceptable downtime. Achieving high levels of availability (like five or six nines) requires careful planning, robust system architecture, and often comes with increased cost.
+
+
+----
+
+#### How to measure availability
+
+Measuring availability is a single percentage metric. It is the total elapsed time minus the total downtime divided by the total elapsed time:
+
+**availability percentage = (total elapsed time – downtime) / total elapsed time**
+
+For example, if an online retail site is down for three hours in a day due to traffic overload, its availability score is 87.5%. The standard may be closer to 99.5% for large international retailers, giving the online retailer much to improve.
+
+
+---

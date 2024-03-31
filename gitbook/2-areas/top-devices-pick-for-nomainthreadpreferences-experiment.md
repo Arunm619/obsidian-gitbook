@@ -10,7 +10,7 @@
 6. vivo 1915
 7. realme RMX1911
 
-![[Screenshot 2024-03-20 at 3.45.59 PM.png]]
+![[devices-anr-fsync.png]]
 
 ----
 
@@ -29,7 +29,7 @@
 7. Realme RMX1825
 
 
-![[Screenshot 2024-03-20 at 4.03.23 PM.png]]
+![[devices-anr-hold-lock.png]]
 
 
 ---
@@ -89,4 +89,4 @@ CON-360
 
 
 App build number is chosen as **500**. 
-![[Screenshot 2024-03-20 at 7.01.42 PM.png]]
+![[500-app-version-split.png]]

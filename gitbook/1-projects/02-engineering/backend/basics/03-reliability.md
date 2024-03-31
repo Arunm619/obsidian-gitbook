@@ -34,3 +34,11 @@ Reliability can be broken down into several key aspects:
 In backend engineering, reliability is crucial as it directly impacts the user experience. If a backend system is not reliable, it could lead to downtime, data loss, or incorrect functionality, all of which can negatively impact users. 
 
 For example, in a banking application, reliability would mean that transactions are processed accurately, the balance is always correct, and the system is available when users need to access their accounts. If the system is not reliable, it could lead to incorrect balances, failed transactions, or inability to access the system, which would be a major problem for users.
+
+
+---
+#### Measuring Reliability 
+
+- **Mean time between failures**: Calculate this by dividing the total operation time by the number of failures.
+- **Failure rate**: Calculate this by dividing the number of failures by the total time in service.
+

@@ -6,10 +6,10 @@
 Serviceability or Manageability in software systems refers to how easily a system can be managed, monitored, and updated. 
 This includes aspects like logging, monitoring, debugging, and updating the system.  In the context of a backend system written in Kotlin or Java, you might use various tools and practices to improve serviceability:  
 
-- Logging: Proper logging is crucial for understanding the behavior of an application and for debugging purposes. 
-- Monitoring: Monitoring tools help you keep an eye on your system's performance and health. Tools like Prometheus, Grafana, or New Relic can be used to monitor Java or Kotlin applications.  
-- Debugging: Debugging tools are essential for finding and fixing issues in your code. Most IDEs like IntelliJ IDEA provide powerful debugging tools for Java and Kotlin.  
-- Updating: The ability to update your system with minimal downtime is crucial for serviceability. Techniques like Blue-Green deployment or Canary deployment can help with this.
+- **Logging**: Proper logging is crucial for understanding the behavior of an application and for debugging purposes. 
+- **Monitoring**: Monitoring tools help you keep an eye on your system's performance and health. Tools like Prometheus, Grafana, or New Relic can be used to monitor Java or Kotlin applications.  
+- **Debugging**: Debugging tools are essential for finding and fixing issues in your code. Most IDEs like IntelliJ IDEA provide powerful debugging tools for Java and Kotlin.  
+- **Updating**: The ability to update your system with minimal downtime is crucial for serviceability. Techniques like Blue-Green deployment or Canary deployment can help with this.
 
 
 ---
