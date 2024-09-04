@@ -1,10 +1,10 @@
-| Name                 | Arun Sudharsan M                |
-|----------------------|---------------------------------|
-| Designation          | Software Development Engineer 2 |
-| Team                 | Transact - Android              |
-| Pod                  | Prepaid Adoption                |
-| Manager              | Naveen Kumar AV                 |
-| Date of Joining      | Nov 03, 2021                    |
+| Name            | Arun Sudharsan M                |
+| --------------- | ------------------------------- |
+| Designation     | Software Development Engineer 2 |
+| Team            | Transact - Android              |
+| Pod             | Prepaid Adoption                |
+| Manager         | Naveen Kumar AV                 |
+| Date of Joining | Nov 03, 2021                    |
 ### Work Items
 - [[#Animated Sticky CTAs in PDP|Animated Sticky CTAs in PDP]]
 - [[#App Shortcuts|App Shortcuts]]

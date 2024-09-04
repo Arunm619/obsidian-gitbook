@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-54fcad84cefe4bbfe0a48278a27f8478cdd7f5d2.idx](git/objects/pack/pack54fcad84cefe4bbfe0a48278a27f8478cdd7f5d2.idx)
-            * [pack-54fcad84cefe4bbfe0a48278a27f8478cdd7f5d2.pack](git/objects/pack/pack54fcad84cefe4bbfe0a48278a27f8478cdd7f5d2.pack)
-            * [pack-54fcad84cefe4bbfe0a48278a27f8478cdd7f5d2.rev](git/objects/pack/pack54fcad84cefe4bbfe0a48278a27f8478cdd7f5d2.rev)
+            * [pack-ac0e6852b3896c57e98811e147d663bf16051431.idx](git/objects/pack/packac0e6852b3896c57e98811e147d663bf16051431.idx)
+            * [pack-ac0e6852b3896c57e98811e147d663bf16051431.pack](git/objects/pack/packac0e6852b3896c57e98811e147d663bf16051431.pack)
+            * [pack-ac0e6852b3896c57e98811e147d663bf16051431.rev](git/objects/pack/packac0e6852b3896c57e98811e147d663bf16051431.rev)
 
 
     * [refs](git/refs/README.md)
@@ -185,6 +185,9 @@
                 * [16 CAP Theorem](1-projects/02-engineering/backend/basics/16-cap-theorem.md)
                 * [16 Client Server Communication](1-projects/02-engineering/backend/basics/16-client-server-communication.md)
 
+            * [Security](1-projects/02-engineering/backend/security/README.md)
+                * [Access Token vs Refresh Token](1-projects/02-engineering/backend/security/access-token-vs-refresh-token.md)
+
             * [System Designs](1-projects/02-engineering/backend/system-designs/README.md)
                 * [Designing a URL Shortening service like TinyURL](1-projects/02-engineering/backend/system-designs/designing-a-url-shortening-service-like-tinyurl.md)
                 * [General Structure](1-projects/02-engineering/backend/system-designs/general-structure.md)
@@ -194,10 +197,16 @@
 
             * [Tools](1-projects/02-engineering/backend/tools/README.md)
                 * [Diagram as code tools](1-projects/02-engineering/backend/tools/diagram-as-code-tools.md)
+                * [Nginx](1-projects/02-engineering/backend/tools/nginx.md)
                 * [Redis](1-projects/02-engineering/backend/tools/redis.md)
 
             * [Backend Engineering - ELI5](1-projects/02-engineering/backend/backend-engineering-eli5.md)
             * [CS75 Scalability](1-projects/02-engineering/backend/cs75-scalability.md)
+
+        * [Courses](1-projects/02-engineering/courses/README.md)
+            * [CS50 - 2024](1-projects/02-engineering/courses/cs50-2024/README.md)
+                * [C50](1-projects/02-engineering/courses/cs50-2024/c50.md)
+
 
         * [Github repos](1-projects/02-engineering/github-repos/README.md)
             * [Professional Programming](1-projects/02-engineering/github-repos/professional-programming.md)
@@ -216,17 +225,30 @@
 
 
 * [2 Areas](2-areas/README.md)
-    * [Device Cohorts](2-areas/device-cohorts/README.md)
-        * [Pandas](2-areas/device-cohorts/pandas.md)
+    * [ANR](2-areas/anr/README.md)
+        * [Device Cohorts](2-areas/anr/device-cohorts/README.md)
+            * [Op - play_devices.ipynb](2-areas/anr/device-cohorts/op-playdevices.ipynb.md)
+            * [Pandas](2-areas/anr/device-cohorts/pandas.md)
 
-    * [ANR Long Running Demo](2-areas/anr-long-running-demo.md)
-    * [ANR RxBlocking Call Demo](2-areas/anr-rxblocking-call-demo.md)
-    * [APK Size Reduction - 176 KB](2-areas/apk-size-reduction-176-kb.md)
-    * [Config Interactor effect in Supply App](2-areas/config-interactor-effect-in-supply-app.md)
-    * [PNPullAlarmReceiver](2-areas/pnpullalarmreceiver.md)
-    * [Shared Preference Experiment](2-areas/shared-preference-experiment.md)
-    * [Top DAU Devices & ANR Devices](2-areas/top-dau-devices-anr-devices.md)
-    * [Top Devices Pick for NoMainThreadPreferences Experiment](2-areas/top-devices-pick-for-nomainthreadpreferences-experiment.md)
+        * [ANR Long Running Demo](2-areas/anr/anr-long-running-demo.md)
+        * [ANR RxBlocking Call Demo](2-areas/anr/anr-rxblocking-call-demo.md)
+        * [APK Size Reduction - 176 KB](2-areas/anr/apk-size-reduction-176-kb.md)
+        * [Config Interactor effect in Supply App](2-areas/anr/config-interactor-effect-in-supply-app.md)
+        * [PNPullAlarmReceiver](2-areas/anr/pnpullalarmreceiver.md)
+        * [Shared Preference Experiment](2-areas/anr/shared-preference-experiment.md)
+        * [Top DAU Devices & ANR Devices](2-areas/anr/top-dau-devices-anr-devices.md)
+        * [Top Devices Pick for NoMainThreadPreferences Experiment](2-areas/anr/top-devices-pick-for-nomainthreadpreferences-experiment.md)
+
+    * [Arunm619 Coding](2-areas/arunm619-coding/README.md)
+        * [dp](2-areas/arunm619-coding/dp/README.md)
+            * [1. Fibonacci](2-areas/arunm619-coding/dp/1.-fibonacci.md)
+            * [2.Climbing stairs](2-areas/arunm619-coding/dp/2.climbing-stairs.md)
+            * [dp - Decoding ways](2-areas/arunm619-coding/dp/dp-decoding-ways.md)
+
+        * [Channel Content Planning](2-areas/arunm619-coding/channel-content-planning.md)
+
+    * [Integrating Scan and Pay via QR in android](2-areas/integrating-scan-and-pay-via-qr-in-android.md)
+    * [Running list](2-areas/running-list.md)
 
 * [3 Resources](3-resources/README.md)
     * [00 Books](3-resources/00-books/README.md)
@@ -432,10 +454,24 @@
             * [Simple - Revision 1](4-archives/meesho-work-files/promo-doc-files/simple-revision-1.md)
             * [Work Summary - Final](4-archives/meesho-work-files/promo-doc-files/work-summary-final.md)
 
+        * [Work Research Items](4-archives/meesho-work-files/work-research-items/README.md)
+            * [Boosting Android Development Productivity with HttpToolKit](4-archives/meesho-work-files/work-research-items/boosting-android-development-productivity-with-httptoolkit.md)
+            * [Deadlock detection](4-archives/meesho-work-files/work-research-items/deadlock-detection.md)
+            * [Firebase crashlytics](4-archives/meesho-work-files/work-research-items/firebase-crashlytics.md)
+            * [Force update all users to MSC](4-archives/meesho-work-files/work-research-items/force-update-all-users-to-msc.md)
+            * [HttpToolKit Subscription for the team copu](4-archives/meesho-work-files/work-research-items/httptoolkit-subscription-for-the-team-copu.md)
+            * [Lifecycle aware initialisers](4-archives/meesho-work-files/work-research-items/lifecycle-aware-initialisers.md)
+
 
     * [Others](4-archives/others/README.md)
         * [Media-Artifacts](4-archives/others/mediaartifacts/README.md)
             * [500-app-version-split.png](4-archives/others/mediaartifacts/500appversionsplit.png)
+            * [Screenshot 2024-03-21 at 12.41.44 AM.png](4-archives/others/mediaartifacts/screenshot-20240321-at-12.41.44-am.png)
+            * [Screenshot 2024-03-28 at 8.04.18 PM.png](4-archives/others/mediaartifacts/screenshot-20240328-at-8.04.18-pm.png)
+            * [Screenshot 2024-04-01 at 4.28.17 PM.png](4-archives/others/mediaartifacts/screenshot-20240401-at-4.28.17-pm.png)
+            * [Screenshot 2024-04-01 at 4.29.28 PM.png](4-archives/others/mediaartifacts/screenshot-20240401-at-4.29.28-pm.png)
+            * [Screenshot 2024-04-01 at 7.11.36 PM.png](4-archives/others/mediaartifacts/screenshot-20240401-at-7.11.36-pm.png)
+            * [Screenshot 2024-04-01 at 7.31.44 PM.png](4-archives/others/mediaartifacts/screenshot-20240401-at-7.31.44-pm.png)
             * [alpha beta pruning 2.png](4-archives/others/mediaartifacts/alpha-beta-pruning-2.png)
             * [alpha beta pruning-1.png](4-archives/others/mediaartifacts/alpha-beta-pruning1.png)
             * [alpha beta pruning.png](4-archives/others/mediaartifacts/alpha-beta-pruning.png)
@@ -482,11 +518,10 @@
     * [Underlined T&C CTA](excalidraw/underlined-tc-cta.md)
     * [first](excalidraw/first.md)
 
-* [cheatsheets](cheatsheets/README.md)
-    * [Clean-Code-V2.4.pdf](cheatsheets/cleancodev2.4.pdf.md)
-
 * [.DS_Store](.dsstore)
+* [Pregnancy Diet](pregnancy-diet.md)
 * [README](readme.md)
 * [Scratch Pad - Things to Learn](scratch-pad-things-to-learn.md)
-* [Screenshot 2024-03-21 at 12.41.44 AM.png](screenshot-20240321-at-12.41.44-am.png)
-* [Screenshot 2024-03-28 at 8.04.18 PM.png](screenshot-20240328-at-8.04.18-pm.png)
+* [Screenshot 2024-04-19 at 2.13.32 PM.png](screenshot-20240419-at-2.13.32-pm.png)
+* [Screenshot 2024-05-05 at 8.27.50 PM.png](screenshot-20240505-at-8.27.50-pm.png)
+* [Untitled](untitled.md)
