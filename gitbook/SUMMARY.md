@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-ac0e6852b3896c57e98811e147d663bf16051431.idx](git/objects/pack/packac0e6852b3896c57e98811e147d663bf16051431.idx)
-            * [pack-ac0e6852b3896c57e98811e147d663bf16051431.pack](git/objects/pack/packac0e6852b3896c57e98811e147d663bf16051431.pack)
-            * [pack-ac0e6852b3896c57e98811e147d663bf16051431.rev](git/objects/pack/packac0e6852b3896c57e98811e147d663bf16051431.rev)
+            * [pack-c37d843b5a5e7bf1059390f1da209618b14ef493.idx](git/objects/pack/packc37d843b5a5e7bf1059390f1da209618b14ef493.idx)
+            * [pack-c37d843b5a5e7bf1059390f1da209618b14ef493.pack](git/objects/pack/packc37d843b5a5e7bf1059390f1da209618b14ef493.pack)
+            * [pack-c37d843b5a5e7bf1059390f1da209618b14ef493.rev](git/objects/pack/packc37d843b5a5e7bf1059390f1da209618b14ef493.rev)
 
 
     * [refs](git/refs/README.md)
@@ -74,6 +74,7 @@
             * [Android memory management](1-projects/00-android/memory-management/android-memory-management.md)
             * [Calculate the memory usage of Java objects](1-projects/00-android/memory-management/calculate-the-memory-usage-of-java-objects.md)
             * [Dalvik Virtual Machine and Android Run Time](1-projects/00-android/memory-management/dalvik-virtual-machine-and-android-run-time.md)
+            * [Hot, Warm and Cold Launch](1-projects/00-android/memory-management/hot-warm-and-cold-launch.md)
             * [Large Heap in Android Manifest](1-projects/00-android/memory-management/large-heap-in-android-manifest.md)
             * [Memory](1-projects/00-android/memory-management/memory.md)
             * [Process Death](1-projects/00-android/memory-management/process-death.md)
@@ -246,6 +247,11 @@
             * [dp - Decoding ways](2-areas/arunm619-coding/dp/dp-decoding-ways.md)
 
         * [Channel Content Planning](2-areas/arunm619-coding/channel-content-planning.md)
+
+    * [Measure](2-areas/measure/README.md)
+        * [ANR](2-areas/measure/anr.md)
+        * [Measure ANR](2-areas/measure/measure-anr.md)
+        * [Vibin's research](2-areas/measure/vibins-research.md)
 
     * [Integrating Scan and Pay via QR in android](2-areas/integrating-scan-and-pay-via-qr-in-android.md)
     * [Running list](2-areas/running-list.md)
