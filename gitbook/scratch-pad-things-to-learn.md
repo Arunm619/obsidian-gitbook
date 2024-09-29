@@ -7,3 +7,5 @@
 - Health stats for apps - [Battery-Metrics/metrics/src/main/java/com/facebook/battery/metrics/healthstats/HealthStatsMetricsCollector.java at 208a0cf5c66150cfc10dcde791a2b21897a42a57 · facebookincubator/Battery-Metrics · GitHub](https://github.com/facebookincubator/Battery-Metrics/blob/208a0cf5c66150cfc10dcde791a2b21897a42a57/metrics/src/main/java/com/facebook/battery/metrics/healthstats/HealthStatsMetricsCollector.java)
 - Observability for the interceptors we have today
 - Learn about shared preferences in detail till the end of the interface.
+- Try Venom
+

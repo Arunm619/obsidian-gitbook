@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-c37d843b5a5e7bf1059390f1da209618b14ef493.idx](git/objects/pack/packc37d843b5a5e7bf1059390f1da209618b14ef493.idx)
-            * [pack-c37d843b5a5e7bf1059390f1da209618b14ef493.pack](git/objects/pack/packc37d843b5a5e7bf1059390f1da209618b14ef493.pack)
-            * [pack-c37d843b5a5e7bf1059390f1da209618b14ef493.rev](git/objects/pack/packc37d843b5a5e7bf1059390f1da209618b14ef493.rev)
+            * [pack-046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.idx](git/objects/pack/pack046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.idx)
+            * [pack-046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.pack](git/objects/pack/pack046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.pack)
+            * [pack-046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.rev](git/objects/pack/pack046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.rev)
 
 
     * [refs](git/refs/README.md)
@@ -81,6 +81,7 @@
             * [Proguard](1-projects/00-android/memory-management/proguard.md)
             * [ZipAlign](1-projects/00-android/memory-management/zipalign.md)
 
+        * [API levels](1-projects/00-android/api-levels.md)
         * [Class Loaders](1-projects/00-android/class-loaders.md)
         * [Is Android just linux?](1-projects/00-android/is-android-just-linux.md)
 
@@ -166,6 +167,7 @@
             * [GC in Android](1-projects/02-engineering/android/gc-in-android.md)
             * [Popular Tools for Android Development](1-projects/02-engineering/android/popular-tools-for-android-development.md)
             * [Retrofit](1-projects/02-engineering/android/retrofit.md)
+            * [Reverse Engineering](1-projects/02-engineering/android/reverse-engineering.md)
 
         * [Backend](1-projects/02-engineering/backend/README.md)
             * [Basics](1-projects/02-engineering/backend/basics/README.md)
@@ -235,7 +237,9 @@
         * [ANR RxBlocking Call Demo](2-areas/anr/anr-rxblocking-call-demo.md)
         * [APK Size Reduction - 176 KB](2-areas/anr/apk-size-reduction-176-kb.md)
         * [Config Interactor effect in Supply App](2-areas/anr/config-interactor-effect-in-supply-app.md)
+        * [Leak canary - DroidCon SF24](2-areas/anr/leak-canary-droidcon-sf24.md)
         * [PNPullAlarmReceiver](2-areas/anr/pnpullalarmreceiver.md)
+        * [Sentry - ANR detection](2-areas/anr/sentry-anr-detection.md)
         * [Shared Preference Experiment](2-areas/anr/shared-preference-experiment.md)
         * [Top DAU Devices & ANR Devices](2-areas/anr/top-dau-devices-anr-devices.md)
         * [Top Devices Pick for NoMainThreadPreferences Experiment](2-areas/anr/top-devices-pick-for-nomainthreadpreferences-experiment.md)
@@ -525,9 +529,8 @@
     * [first](excalidraw/first.md)
 
 * [.DS_Store](.dsstore)
-* [Pregnancy Diet](pregnancy-diet.md)
 * [README](readme.md)
 * [Scratch Pad - Things to Learn](scratch-pad-things-to-learn.md)
 * [Screenshot 2024-04-19 at 2.13.32 PM.png](screenshot-20240419-at-2.13.32-pm.png)
 * [Screenshot 2024-05-05 at 8.27.50 PM.png](screenshot-20240505-at-8.27.50-pm.png)
-* [Untitled](untitled.md)
+* [Whiteboard](whiteboard.md)
