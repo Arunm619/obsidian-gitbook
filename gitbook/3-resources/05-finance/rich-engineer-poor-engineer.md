@@ -120,19 +120,19 @@ Categorise as must-achieve, good to achieve
 
 **Asset Classes**
 
-| Asset           | Expected Return Range    |
-|-----------------|--------------------------|
-| Cash            | Negative interest        |
-| Fixed Income    | 6% to -9%                |
-| Govt Bonds      | 4% to 7%                 |
-| Debt Funds      | 6%                       |
-| Equity Funds    | 12% (Pre-tax)            |
-| Stocks          | SenSex 41-year CAGR      |
-| Real Estate     | ?                        |
-| Precious Metals | ?                        |
-| Derivatives (F&O) | ?                        |
+| Asset             | Expected Return Range |
+| ----------------- | --------------------- |
+| Cash              | Negative interest     |
+| Fixed Income      | 6% to 9%              |
+| Govt Bonds        | 4% to 7%              |
+| Debt Funds        | 6%                    |
+| Equity Funds      | 12% (Pre-tax)         |
+| Stocks            | SenSex 41-year CAGR   |
+| Real Estate       | ?                     |
+| Precious Metals   | ?                     |
+| Derivatives (F&O) | ?                     |
 
-- Don't invest in asset classes you don't understand.
+- Don't invest in asset classes you don't understand. eg. in AD 2020, crypto fuck up by Arun.
 - Don't put all the eggs in one basket
 - Don't believe anything your bank's relationship manager tells you.
 - Don't build castles in the air - have realistic expectations on returns.

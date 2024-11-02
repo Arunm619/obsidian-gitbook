@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.idx](git/objects/pack/pack046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.idx)
-            * [pack-046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.pack](git/objects/pack/pack046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.pack)
-            * [pack-046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.rev](git/objects/pack/pack046ad8c8c6741d4fa6b49ebbcb0ab2e7cbab5ebd.rev)
+            * [pack-0a1d8816fc048e7192c8f20dce44f085eb15f734.idx](git/objects/pack/pack0a1d8816fc048e7192c8f20dce44f085eb15f734.idx)
+            * [pack-0a1d8816fc048e7192c8f20dce44f085eb15f734.pack](git/objects/pack/pack0a1d8816fc048e7192c8f20dce44f085eb15f734.pack)
+            * [pack-0a1d8816fc048e7192c8f20dce44f085eb15f734.rev](git/objects/pack/pack0a1d8816fc048e7192c8f20dce44f085eb15f734.rev)
 
 
     * [refs](git/refs/README.md)
@@ -164,6 +164,7 @@
                 * [Deep Dive in Android Vitals](1-projects/02-engineering/android/vitals/deep-dive-in-android-vitals.md)
 
             * [Android Stack](1-projects/02-engineering/android/android-stack.md)
+            * [Dalvik Vs ART](1-projects/02-engineering/android/dalvik-vs-art.md)
             * [GC in Android](1-projects/02-engineering/android/gc-in-android.md)
             * [Popular Tools for Android Development](1-projects/02-engineering/android/popular-tools-for-android-development.md)
             * [Retrofit](1-projects/02-engineering/android/retrofit.md)
@@ -224,6 +225,9 @@
 
         * [Others](1-projects/02-engineering/others/README.md)
             * [Different kinds of licenses in software](1-projects/02-engineering/others/different-kinds-of-licenses-in-software.md)
+
+        * [Tech Talks](1-projects/02-engineering/tech-talks/README.md)
+            * [Tech Writing](1-projects/02-engineering/tech-talks/tech-writing.md)
 
 
 
@@ -306,6 +310,7 @@
         * [Stock Market](3-resources/05-finance/stock-market/README.md)
             * [Aswarth Damodaran - Priceless Lecture on Valuation](3-resources/05-finance/stock-market/aswarth-damodaran-priceless-lecture-on-valuation.md)
 
+        * [Mistakes to repel from](3-resources/05-finance/mistakes-to-repel-from.md)
         * [Rich Engineer, Poor Engineer](3-resources/05-finance/rich-engineer-poor-engineer.md)
         * [Salary Breakup](3-resources/05-finance/salary-breakup.md)
 
