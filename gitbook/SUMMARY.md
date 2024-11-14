@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-0a1d8816fc048e7192c8f20dce44f085eb15f734.idx](git/objects/pack/pack0a1d8816fc048e7192c8f20dce44f085eb15f734.idx)
-            * [pack-0a1d8816fc048e7192c8f20dce44f085eb15f734.pack](git/objects/pack/pack0a1d8816fc048e7192c8f20dce44f085eb15f734.pack)
-            * [pack-0a1d8816fc048e7192c8f20dce44f085eb15f734.rev](git/objects/pack/pack0a1d8816fc048e7192c8f20dce44f085eb15f734.rev)
+            * [pack-4d48f4b404a7b514ace8be350f463b9f7510faf5.idx](git/objects/pack/pack4d48f4b404a7b514ace8be350f463b9f7510faf5.idx)
+            * [pack-4d48f4b404a7b514ace8be350f463b9f7510faf5.pack](git/objects/pack/pack4d48f4b404a7b514ace8be350f463b9f7510faf5.pack)
+            * [pack-4d48f4b404a7b514ace8be350f463b9f7510faf5.rev](git/objects/pack/pack4d48f4b404a7b514ace8be350f463b9f7510faf5.rev)
 
 
     * [refs](git/refs/README.md)
@@ -227,6 +227,7 @@
             * [Different kinds of licenses in software](1-projects/02-engineering/others/different-kinds-of-licenses-in-software.md)
 
         * [Tech Talks](1-projects/02-engineering/tech-talks/README.md)
+            * [JVM Anatomy](1-projects/02-engineering/tech-talks/jvm-anatomy.md)
             * [Tech Writing](1-projects/02-engineering/tech-talks/tech-writing.md)
 
 
@@ -481,6 +482,7 @@
     * [Others](4-archives/others/README.md)
         * [Media-Artifacts](4-archives/others/mediaartifacts/README.md)
             * [500-app-version-split.png](4-archives/others/mediaartifacts/500appversionsplit.png)
+            * [JVM anatomy.png](4-archives/others/mediaartifacts/jvm-anatomy.png)
             * [Screenshot 2024-03-21 at 12.41.44 AM.png](4-archives/others/mediaartifacts/screenshot-20240321-at-12.41.44-am.png)
             * [Screenshot 2024-03-28 at 8.04.18 PM.png](4-archives/others/mediaartifacts/screenshot-20240328-at-8.04.18-pm.png)
             * [Screenshot 2024-04-01 at 4.28.17 PM.png](4-archives/others/mediaartifacts/screenshot-20240401-at-4.28.17-pm.png)
@@ -495,6 +497,7 @@
             * [compound-interest.png](4-archives/others/mediaartifacts/compoundinterest.png)
             * [devices-anr-fsync.png](4-archives/others/mediaartifacts/devicesanrfsync.png)
             * [devices-anr-hold-lock.png](4-archives/others/mediaartifacts/devicesanrholdlock.png)
+            * [exceptional-handling-in-JVM.png](4-archives/others/mediaartifacts/exceptionalhandlinginjvm.png)
             * [simulation.png](4-archives/others/mediaartifacts/simulation.png)
 
 
