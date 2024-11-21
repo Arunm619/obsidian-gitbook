@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-4d48f4b404a7b514ace8be350f463b9f7510faf5.idx](git/objects/pack/pack4d48f4b404a7b514ace8be350f463b9f7510faf5.idx)
-            * [pack-4d48f4b404a7b514ace8be350f463b9f7510faf5.pack](git/objects/pack/pack4d48f4b404a7b514ace8be350f463b9f7510faf5.pack)
-            * [pack-4d48f4b404a7b514ace8be350f463b9f7510faf5.rev](git/objects/pack/pack4d48f4b404a7b514ace8be350f463b9f7510faf5.rev)
+            * [pack-10c6ea18d88a76723af4e511968f3c1e9ff6bd57.idx](git/objects/pack/pack10c6ea18d88a76723af4e511968f3c1e9ff6bd57.idx)
+            * [pack-10c6ea18d88a76723af4e511968f3c1e9ff6bd57.pack](git/objects/pack/pack10c6ea18d88a76723af4e511968f3c1e9ff6bd57.pack)
+            * [pack-10c6ea18d88a76723af4e511968f3c1e9ff6bd57.rev](git/objects/pack/pack10c6ea18d88a76723af4e511968f3c1e9ff6bd57.rev)
 
 
     * [refs](git/refs/README.md)
@@ -227,6 +227,10 @@
             * [Different kinds of licenses in software](1-projects/02-engineering/others/different-kinds-of-licenses-in-software.md)
 
         * [Tech Talks](1-projects/02-engineering/tech-talks/README.md)
+            * [Arpit Bhayani](1-projects/02-engineering/tech-talks/arpit-bhayani/README.md)
+                * [How to learn better and faster as a software engineer?](1-projects/02-engineering/tech-talks/arpit-bhayani/how-to-learn-better-and-faster-as-a-software-engineer.md)
+                * [What should a software developer not do?](1-projects/02-engineering/tech-talks/arpit-bhayani/what-should-a-software-developer-not-do.md)
+
             * [JVM Anatomy](1-projects/02-engineering/tech-talks/jvm-anatomy.md)
             * [Tech Writing](1-projects/02-engineering/tech-talks/tech-writing.md)
 
@@ -495,9 +499,11 @@
             * [cache-write-strategies.png](4-archives/others/mediaartifacts/cachewritestrategies.png)
             * [company.png](4-archives/others/mediaartifacts/company.png)
             * [compound-interest.png](4-archives/others/mediaartifacts/compoundinterest.png)
+            * [cost savings vs subscription cost.png](4-archives/others/mediaartifacts/cost-savings-vs-subscription-cost.png)
             * [devices-anr-fsync.png](4-archives/others/mediaartifacts/devicesanrfsync.png)
             * [devices-anr-hold-lock.png](4-archives/others/mediaartifacts/devicesanrholdlock.png)
             * [exceptional-handling-in-JVM.png](4-archives/others/mediaartifacts/exceptionalhandlinginjvm.png)
+            * [nginx.png](4-archives/others/mediaartifacts/nginx.png)
             * [simulation.png](4-archives/others/mediaartifacts/simulation.png)
 
 
@@ -532,13 +538,7 @@
     * [The real wealthy](4-archives/the-real-wealthy.md)
     * [Unit testing trials](4-archives/unit-testing-trials.md)
 
-* [Excalidraw](excalidraw/README.md)
-    * [Underlined T&C CTA](excalidraw/underlined-tc-cta.md)
-    * [first](excalidraw/first.md)
-
 * [.DS_Store](.dsstore)
 * [README](readme.md)
-* [Scratch Pad - Things to Learn](scratch-pad-things-to-learn.md)
-* [Screenshot 2024-04-19 at 2.13.32 PM.png](screenshot-20240419-at-2.13.32-pm.png)
-* [Screenshot 2024-05-05 at 8.27.50 PM.png](screenshot-20240505-at-8.27.50-pm.png)
+* [Scratch Pad - Curiosity Register - Things to Learn](scratch-pad-curiosity-register-things-to-learn.md)
 * [Whiteboard](whiteboard.md)

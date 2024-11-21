@@ -47,7 +47,7 @@ Total cost savings per year = 3,640,000 INR
 ----
  [Graph Link](https://docs.google.com/spreadsheets/d/1K_h2R2KMpqG6RLiZqb69uSfithyIBxH8fM7PTxQvXt0/edit?usp=sharing)
 
-![[Screenshot 2024-04-19 at 2.13.32 PM.png]]
+![[cost savings vs subscription cost.png]]
 
 **Conclusion**
 

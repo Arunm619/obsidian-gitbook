@@ -8,7 +8,7 @@ airbnb uses nginx server while meesho uses envoy.
 Nginx is a reverse proxy.
 it sits before the server to serve the static web content.
 
- ![[Screenshot 2024-05-05 at 8.27.50 PM.png]]
+ ![[nginx.png]]
 
 Nginx can also act as a LB (Load balancer)
 
