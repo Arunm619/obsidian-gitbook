@@ -14,5 +14,10 @@
 
 Android libraries to test
 - [GitHub - line/apng-drawable: A lightweight and fast Animated Portable Network Graphics (APNG) image decoder for Android](https://github.com/line/apng-drawable?tab=readme-ov-file)
-- 
+- [GitHub - gradle/gradle-profiler: A tool for gathering profiling and benchmarking information for Gradle builds](https://github.com/gradle/gradle-profiler?tab=readme-ov-file)
+- Beagle - Debug UI
+- Profile Verifier - Baseline Profiles 
+- App Sizer - Gradle Plugin
+- Transitive dependency updater 
+- Clean up thread uncaught exception handler
 
