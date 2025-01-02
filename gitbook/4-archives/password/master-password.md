@@ -14,6 +14,7 @@ Meesho gmail account :
 email - arun.sudharsan@meesho.com
 password - MeeshoDev123@@
 Meesho Laptop password - MeeshoDev123@@
+Alliswell400!!
 
 
 Bank account

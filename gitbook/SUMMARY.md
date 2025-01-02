@@ -39,9 +39,9 @@
         * [info](git/objects/info/README.md)
 
         * [pack](git/objects/pack/README.md)
-            * [pack-540bdfe877c3b0a08c1ddfe4a0b43353bbbb1f3c.idx](git/objects/pack/pack540bdfe877c3b0a08c1ddfe4a0b43353bbbb1f3c.idx)
-            * [pack-540bdfe877c3b0a08c1ddfe4a0b43353bbbb1f3c.pack](git/objects/pack/pack540bdfe877c3b0a08c1ddfe4a0b43353bbbb1f3c.pack)
-            * [pack-540bdfe877c3b0a08c1ddfe4a0b43353bbbb1f3c.rev](git/objects/pack/pack540bdfe877c3b0a08c1ddfe4a0b43353bbbb1f3c.rev)
+            * [pack-ac60206ad397018c84ef56a07bac20366a2960d0.idx](git/objects/pack/packac60206ad397018c84ef56a07bac20366a2960d0.idx)
+            * [pack-ac60206ad397018c84ef56a07bac20366a2960d0.pack](git/objects/pack/packac60206ad397018c84ef56a07bac20366a2960d0.pack)
+            * [pack-ac60206ad397018c84ef56a07bac20366a2960d0.rev](git/objects/pack/packac60206ad397018c84ef56a07bac20366a2960d0.rev)
 
 
     * [refs](git/refs/README.md)
@@ -107,6 +107,9 @@
             * [Coding With Italians With PY](1-projects/01-work/memory-leaks/coding-with-italians-with-py.md)
             * [Github Projects for memory leaks](1-projects/01-work/memory-leaks/github-projects-for-memory-leaks.md)
             * [Memory Leak in Android](1-projects/01-work/memory-leaks/memory-leak-in-android.md)
+
+        * [Transact](1-projects/01-work/transact/README.md)
+            * [Integrating Scan and Pay via QR in android](1-projects/01-work/transact/integrating-scan-and-pay-via-qr-in-android.md)
 
 
     * [02 Engineering](1-projects/02-engineering/README.md)
@@ -256,21 +259,11 @@
     * [App Startup](2-areas/app-startup/README.md)
         * [Savings with app startup shavings](2-areas/app-startup/savings-with-app-startup-shavings.md)
 
-    * [Arunm619 Coding](2-areas/arunm619-coding/README.md)
-        * [dp](2-areas/arunm619-coding/dp/README.md)
-            * [1. Fibonacci](2-areas/arunm619-coding/dp/1.-fibonacci.md)
-            * [2.Climbing stairs](2-areas/arunm619-coding/dp/2.climbing-stairs.md)
-            * [dp - Decoding ways](2-areas/arunm619-coding/dp/dp-decoding-ways.md)
-
-        * [Channel Content Planning](2-areas/arunm619-coding/channel-content-planning.md)
-
     * [Measure](2-areas/measure/README.md)
         * [ANR](2-areas/measure/anr.md)
         * [Measure ANR](2-areas/measure/measure-anr.md)
         * [Vibin's research](2-areas/measure/vibins-research.md)
 
-    * [Integrating Scan and Pay via QR in android](2-areas/integrating-scan-and-pay-via-qr-in-android.md)
-    * [Running list](2-areas/running-list.md)
 
 * [3 Resources](3-resources/README.md)
     * [00 Books](3-resources/00-books/README.md)
@@ -364,13 +357,6 @@
         * [Feature Retrospection Template](4-archives/general-templates/feature-retrospection-template.md)
         * [Software Engineer Tags](4-archives/general-templates/software-engineer-tags.md)
         * [Software Engineer Work Items](4-archives/general-templates/software-engineer-work-items.md)
-
-    * [Interview experiences](4-archives/interview-experiences/README.md)
-        * [Android](4-archives/interview-experiences/android/README.md)
-            * [Ayan Patel - SDE 1 - R2 Selected](4-archives/interview-experiences/android/ayan-patel-sde-1-r2-selected.md)
-            * [Rajendra - SDE 1 - R2](4-archives/interview-experiences/android/rajendra-sde-1-r2.md)
-            * [Srikrishna - SDE 1 - R2](4-archives/interview-experiences/android/srikrishna-sde-1-r2.md)
-
 
     * [Meesho Work Files](4-archives/meesho-work-files/README.md)
         * [Archived Daily Notes (Nov 2023 - March 2024)](4-archives/meesho-work-files/archived-daily-notes-nov-2023-march-2024/README.md)
@@ -590,6 +576,19 @@
             * [Remove duplicates in a sorted array](striver/arrays/logic-building/remove-duplicates-in-a-sorted-array.md)
             * [Union of Two Sorted Arrays](striver/arrays/logic-building/union-of-two-sorted-arrays.md)
 
+
+    * [Binary Search](striver/binary-search/README.md)
+        * [Fundamentals](striver/binary-search/fundamentals/README.md)
+            * [Lower Bound](striver/binary-search/fundamentals/lower-bound.md)
+            * [Search in sorted array](striver/binary-search/fundamentals/search-in-sorted-array.md)
+            * [Upper Bound](striver/binary-search/fundamentals/upper-bound.md)
+
+        * [Logic Building](striver/binary-search/logic-building/README.md)
+            * [Search insert position](striver/binary-search/logic-building/search-insert-position.md)
+
+
+    * [Cheat sheets](striver/cheat-sheets/README.md)
+        * [Prefix Sum arrays](striver/cheat-sheets/prefix-sum-arrays.md)
 
     * [Hashing](striver/hashing/README.md)
         * [FAQs](striver/hashing/faqs/README.md)
